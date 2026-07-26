@@ -15,7 +15,7 @@
   <Description DefaultValue="Telt het aantal pagina's per bijlage en het totaal, zonder iets te uploaden."/>
 
   <!-- BASISURL: vervang overal https://VERVANG-MIJ.github.io/paginateller door je eigen URL -->
-  <IconUrl DefaultValue="https://VERVANG-MIJ.github.io/paginateller/assets/icon-64.png"/>
+  <IconUrl DefaultValue="https://mitchellh0604.github.io/paginateller/assets/icon-64.png"/>
   <HighResolutionIconUrl DefaultValue="https://VERVANG-MIJ.github.io/paginateller/assets/icon-128.png"/>
   <SupportUrl DefaultValue="https://mitchellh0604.github.io/page-counter/"/>
 
@@ -36,13 +36,13 @@
   <FormSettings>
     <Form xsi:type="ItemRead">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://VERVANG-MIJ.github.io/paginateller/taskpane.html"/>
+        <SourceLocation DefaultValue="https://mitchellh0604.github.io/paginateller/taskpane.html"/>
         <RequestedHeight>400</RequestedHeight>
       </DesktopSettings>
     </Form>
     <Form xsi:type="ItemEdit">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://VERVANG-MIJ.github.io/paginateller/taskpane.html"/>
+        <SourceLocation DefaultValue="https://mitchellh0604.github.io/paginateller/taskpane.html"/>
       </DesktopSettings>
     </Form>
   </FormSettings>
@@ -124,12 +124,12 @@
 
       <Resources>
         <bt:Images>
-          <bt:Image id="Icon.16" DefaultValue="https://VERVANG-MIJ.github.io/paginateller/assets/icon-16.png"/>
-          <bt:Image id="Icon.32" DefaultValue="https://VERVANG-MIJ.github.io/paginateller/assets/icon-32.png"/>
-          <bt:Image id="Icon.80" DefaultValue="https://VERVANG-MIJ.github.io/paginateller/assets/icon-80.png"/>
+          <bt:Image id="Icon.16" DefaultValue="https://mitchellh0604.github.io/paginateller/assets/icon-16.png"/>
+          <bt:Image id="Icon.32" DefaultValue="https://mitchellh0604.github.io/paginateller/assets/icon-32.png"/>
+          <bt:Image id="Icon.80" DefaultValue="https://mitchellh0604.github.io/paginateller/assets/icon-80.png"/>
         </bt:Images>
         <bt:Urls>
-          <bt:Url id="Taskpane.Url" DefaultValue="https://VERVANG-MIJ.github.io/paginateller/taskpane.html"/>
+          <bt:Url id="Taskpane.Url" DefaultValue="https://mitchellh0604.github.io/paginateller/taskpane.html"/>
         </bt:Urls>
         <bt:ShortStrings>
           <bt:String id="Group.Label" DefaultValue="Paginateller"/>
