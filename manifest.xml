@@ -17,7 +17,7 @@
   <!-- BASISURL: vervang overal https://VERVANG-MIJ.github.io/paginateller door je eigen URL -->
   <IconUrl DefaultValue="https://VERVANG-MIJ.github.io/paginateller/assets/icon-64.png"/>
   <HighResolutionIconUrl DefaultValue="https://VERVANG-MIJ.github.io/paginateller/assets/icon-128.png"/>
-  <SupportUrl DefaultValue="https://VERVANG-MIJ.github.io/paginateller/"/>
+  <SupportUrl DefaultValue="https://mitchellh0604.github.io/page-counter/"/>
 
   <AppDomains>
     <AppDomain>https://cdnjs.cloudflare.com</AppDomain>
