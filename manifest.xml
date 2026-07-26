@@ -16,7 +16,7 @@
 
   <!-- BASISURL: vervang overal https://VERVANG-MIJ.github.io/paginateller door je eigen URL -->
   <IconUrl DefaultValue="https://mitchellh0604.github.io/paginateller/assets/icon-64.png"/>
-  <HighResolutionIconUrl DefaultValue="https://VERVANG-MIJ.github.io/paginateller/assets/icon-128.png"/>
+  <HighResolutionIconUrl DefaultValue="https://mitchellh0604.github.io/paginateller/assets/icon-128.png"/>
   <SupportUrl DefaultValue="https://mitchellh0604.github.io/page-counter/"/>
 
   <AppDomains>
@@ -36,13 +36,13 @@
   <FormSettings>
     <Form xsi:type="ItemRead">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://mitchellh0604.github.io/paginateller/taskpane.html"/>
+        <SourceLocation DefaultValue="https://mitchellh0604.github.io/page-counter/taskpane.html"/>
         <RequestedHeight>400</RequestedHeight>
       </DesktopSettings>
     </Form>
     <Form xsi:type="ItemEdit">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://mitchellh0604.github.io/paginateller/taskpane.html"/>
+        <SourceLocation DefaultValue="https://mitchellh0604.github.io/page-counter/taskpane.html"/>
       </DesktopSettings>
     </Form>
   </FormSettings>
